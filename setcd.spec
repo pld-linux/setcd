@@ -5,7 +5,7 @@ Version:	1.4
 Release:	2
 License:	GPL
 Group:		Applications/System
-Source0:	http://ftp.debian.org/debian/pool/main/s/setcd/setcd_1.4-2.tar.gz
+Source0:	http://ftp.debian.org/debian/pool/main/s/setcd/%{name}_%{version}-2.tar.gz
 # Source0-md5:	8041ed319600281de2bfce0c4a27f7a2
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
