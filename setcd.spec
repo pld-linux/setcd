@@ -2,11 +2,11 @@ Summary:	Set various flags to control the behaviour of CD-ROM device
 Summary(pl):	Narzêdzie do kontroli zachowania napêdu CD-ROM
 Name:		setcd
 Version:	1.4
-Release:	1
+Release:	2
 License:	GPL
 Group:		Applications/System
-Source0:	http://ftp.debian.org/debian/dists/potato/main/source/utils/%{name}_%{version}-1.tar.gz
-# Source0-md5:	e7162b8db950eb04d418f4e1f226c081
+Source0:	http://ftp.debian.org/debian/pool/main/s/setcd/setcd_1.4-2.tar.gz
+# Source0-md5:	8041ed319600281de2bfce0c4a27f7a2
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
