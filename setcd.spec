@@ -6,6 +6,7 @@ Release:	1
 License:	GPL
 Group:		Applications/System
 Source0:	http://ftp.debian.org/debian/dists/potato/main/source/utils/%{name}_%{version}-1.tar.gz
+# Source0-md5:	e7162b8db950eb04d418f4e1f226c081
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
