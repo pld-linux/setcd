@@ -5,8 +5,6 @@ Version:	1.4
 Release:	1
 License:	GPL
 Group:		Applications/System
-Group(de):	Applikationen/System
-Group(pl):	Aplikacje/System
 Source0:	http://ftp.debian.org/debian/dists/potato/main/source/utils/%{name}_%{version}-1.tar.gz
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
