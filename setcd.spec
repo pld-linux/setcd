@@ -10,7 +10,7 @@ Source0:	http://ftp.debian.org/debian/pool/main/s/setcd/%{name}_%{version}-2.tar
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-setcd is a program that allows you to control the behaviour of your
+Setcd is a program that allows you to control the behaviour of your
 Linux cdrom device. There are a number of ways you can control the
 behaviour of your cdrom drive: should it try to close the tray upon
 mounting a cdrom when your happened to have left the tray open, or
@@ -21,7 +21,7 @@ right type (i.e., a data CD in case of a mount, or an audio CD in case
 of a play operation)?
 
 %description -l pl
-setcd pozwala na kontrolê zachowania napêdu CD-ROM. Mo¿e ustawiaæ, czy
+Setcd pozwala na kontrolê zachowania napêdu CD-ROM. Mo¿e ustawiaæ, czy
 szufladka powinna byæ automatycznie zamykana przy montowaniu, czy
 powinna byæ automatycznie wysuwana po odmontowaniu, czy powinna byæ
 zablokowana podczas gdy p³yta jest podmontowana, czy j±dro ma próbowaæ
