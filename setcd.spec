@@ -1,5 +1,5 @@
 Summary:	Set various flags to control the behaviour of CD-ROM device
-Summary(pl):	Narzêdzie do kontroli zachowania napêdu CD-ROM
+Summary(pl.UTF-8):   NarzÄ™dzie do kontroli zachowania napÄ™du CD-ROM
 Name:		setcd
 Version:	1.4
 Release:	2
@@ -20,13 +20,13 @@ ensure that there actually is a CD in the drive, and that it is of the
 right type (i.e., a data CD in case of a mount, or an audio CD in case
 of a play operation)?
 
-%description -l pl
-setcd pozwala na kontrolê zachowania napêdu CD-ROM. Mo¿e ustawiaæ, czy
-szufladka powinna byæ automatycznie zamykana przy montowaniu, czy
-powinna byæ automatycznie wysuwana po odmontowaniu, czy powinna byæ
-zablokowana podczas gdy p³yta jest podmontowana, czy j±dro ma próbowaæ
-upewniæ siê, ¿e p³yta jest w napêdzie oraz czy jest w³a¶ciwego typu
-(tzn. p³yta z danymi przy montowaniu lub p³yta audio przy
+%description -l pl.UTF-8
+setcd pozwala na kontrolÄ™ zachowania napÄ™du CD-ROM. MoÅ¼e ustawiaÄ‡, czy
+szufladka powinna byÄ‡ automatycznie zamykana przy montowaniu, czy
+powinna byÄ‡ automatycznie wysuwana po odmontowaniu, czy powinna byÄ‡
+zablokowana podczas gdy pÅ‚yta jest podmontowana, czy jÄ…dro ma prÃ³bowaÄ‡
+upewniÄ‡ siÄ™, Å¼e pÅ‚yta jest w napÄ™dzie oraz czy jest wÅ‚aÅ›ciwego typu
+(tzn. pÅ‚yta z danymi przy montowaniu lub pÅ‚yta audio przy
 odtwarzaniu).
 
 %prep
