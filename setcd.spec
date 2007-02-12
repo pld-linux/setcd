@@ -1,5 +1,5 @@
 Summary:	Set various flags to control the behaviour of CD-ROM device
-Summary(pl.UTF-8):   Narzędzie do kontroli zachowania napędu CD-ROM
+Summary(pl.UTF-8):	Narzędzie do kontroli zachowania napędu CD-ROM
 Name:		setcd
 Version:	1.4
 Release:	2
